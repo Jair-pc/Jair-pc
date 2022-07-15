@@ -1,5 +1,6 @@
 ### Hi there, I'm jair 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jair-pc&label=Profile%20views&color=0e75b6&style=flat" alt="Jair-pc" /> </p>
 
 ## Who am I ?
 - 💻 Data Engineer.
@@ -19,10 +20,14 @@
 - 🔮 Kafka 
 - 💽 Kubernetes.
 - 💡 Spark.
+-    AWS.
+-    Azure.
 
  
 
 
 ## Find me  🌎
-- [Linkedin](www.linkedin.com/in/jairpereira2022)
+<p align="left">
+<a href="https://linkedin.com/in/jairpereira2022/" target="blank"><img 
+
 
