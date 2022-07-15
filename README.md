@@ -27,7 +27,6 @@
 
 
 ## Find me  🌎
-<p align="left">
-<a href="https://linkedin.com/in/jairpereira2022/" target="blank"><img 
+- [Linkedin](www.linkedin.com/in/jairpereira2022)
 
 
