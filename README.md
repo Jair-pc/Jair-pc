@@ -27,6 +27,6 @@
 
 
 ## Find me  🌎
-- [Linkedin](www.linkedin.com/in/jairpereira2022)
+- [Linkedin](www.linkedin.com/in/jairpereiraengdados)
 
 
