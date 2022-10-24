@@ -19,7 +19,7 @@
 
 ## Skills 💻
  
-- ![image](https://user-images.githubusercontent.com/85970166/197610964-45ec0492-908f-4d8a-9e4a-5a14996cc5e1.png) - ** Python   
+- ![image](https://user-images.githubusercontent.com/85970166/197610964-45ec0492-908f-4d8a-9e4a-5a14996cc5e1.png) - **Python**
 - ![image](https://user-images.githubusercontent.com/85970166/197611710-2d30fc6f-f5a7-4c3e-84dc-30f743ceb8da.png) - # SQL
 - ![image](https://user-images.githubusercontent.com/85970166/197611090-c98af984-4790-4a31-a4ca-db183b06cd80.png) - # Power BI
 - ![image](https://user-images.githubusercontent.com/85970166/197611822-7d2e0717-d250-4eb2-9145-54e6a6a58c76.png) - # Data Visualization
