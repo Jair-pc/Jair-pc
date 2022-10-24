@@ -18,14 +18,14 @@
 
 
 ## Skills 💻
-- 🐍 Python.
+- Python ![image](https://user-images.githubusercontent.com/85970166/197610964-45ec0492-908f-4d8a-9e4a-5a14996cc5e1.png)
 - 📋 SQL.
-- 🧮 Power BI.
+- Power BI ![image](https://user-images.githubusercontent.com/85970166/197611090-c98af984-4790-4a31-a4ca-db183b06cd80.png)
 - 📊 Data Visualization.
 - 🎲 Data Analysis.
-- ![image](https://user-images.githubusercontent.com/85970166/197610485-2e1cf4f0-ec02-45be-a499-beabeabfe52f.png) Kafka 
+- Kafka ![image](https://user-images.githubusercontent.com/85970166/197610485-2e1cf4f0-ec02-45be-a499-beabeabfe52f.png)
 - 💽 Kubernetes.
-- ![image](https://user-images.githubusercontent.com/85970166/197610682-8d96eda3-a9de-4b7c-995f-235c92fa915e.png) Spark.
+- Spark![image](https://user-images.githubusercontent.com/85970166/197610682-8d96eda3-a9de-4b7c-995f-235c92fa915e.png) 
 - Terraform.
 - ☁️ AWS.
 - ☁️ Azure.
