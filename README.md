@@ -6,8 +6,8 @@
  
 
 ## Who am I ?
-- 💻 Data Engineer
-- 📊 Data Analyst - ![image](https://user-images.githubusercontent.com/85970166/197618465-2d86ad25-caf1-4530-8bc8-e642a8b42160.png)
+- 💻 Data Engineer.
+- 📊 Data Analyst.
 - 💡 Data Driven.
 - 🎓 Bachelor of Computer Engineering Electrical - UNI BH.
 - 🎓 Master Data Engineer - PUC Minas.
