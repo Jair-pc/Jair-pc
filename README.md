@@ -23,7 +23,7 @@
 - 🧮 Power BI.
 - 📊 Data Visualization.
 - 🎲 Data Analysis.
-- 🔮 Kafka 
+- ![image](https://user-images.githubusercontent.com/85970166/197610485-2e1cf4f0-ec02-45be-a499-beabeabfe52f.png) Kafka 
 - 💽 Kubernetes.
 - 💡 Spark.
 - Terraform.
