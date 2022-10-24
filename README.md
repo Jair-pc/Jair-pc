@@ -26,7 +26,7 @@
 - 🔮 Kafka 
 - 💽 Kubernetes.
 - 💡 Spark.
-- :terraform: Terraform.
+- [:terraform:](https://slackmojis.com/emojis/43199-azure_2021/download) Terraform.
 - ☁️ AWS.
 - ☁️ Azure.
 
