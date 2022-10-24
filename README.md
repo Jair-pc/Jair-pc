@@ -26,8 +26,9 @@
 - 🔮 Kafka 
 - 💽 Kubernetes.
 - 💡 Spark.
--    AWS.
--    Azure.
+- ⌛ Terraform.
+- ☁️ AWS.
+- ☁️ Azure.
 
  
 
