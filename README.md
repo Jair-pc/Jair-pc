@@ -30,7 +30,7 @@
 - ☁️ AWS.
 - ☁️ Azure.
 
-:persevere:
+:azure_2021:
  
 
 
