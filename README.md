@@ -25,7 +25,7 @@
 - 🎲 Data Analysis.
 - ![image](https://user-images.githubusercontent.com/85970166/197610485-2e1cf4f0-ec02-45be-a499-beabeabfe52f.png) Kafka 
 - 💽 Kubernetes.
-- 💡 Spark.
+- ![image](https://user-images.githubusercontent.com/85970166/197610682-8d96eda3-a9de-4b7c-995f-235c92fa915e.png) Spark.
 - Terraform.
 - ☁️ AWS.
 - ☁️ Azure.
