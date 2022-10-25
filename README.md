@@ -18,6 +18,7 @@
  
 - ![image](https://user-images.githubusercontent.com/85970166/197610964-45ec0492-908f-4d8a-9e4a-5a14996cc5e1.png) - **Python**
 - ![image](https://user-images.githubusercontent.com/85970166/197611710-2d30fc6f-f5a7-4c3e-84dc-30f743ceb8da.png) - **SQL**
+- ![image](https://user-images.githubusercontent.com/85970166/197808126-1bbeaa6f-6bd8-4364-a3b2-8310899197cb.png) - **NoSQL**
 - ![image](https://user-images.githubusercontent.com/85970166/197611090-c98af984-4790-4a31-a4ca-db183b06cd80.png) - **Power BI**
 - ![image](https://user-images.githubusercontent.com/85970166/197617629-eeab8c22-d9cc-4cb3-8e67-ec00ac3429cc.png) - **Data Visualization**
 - ![image](https://user-images.githubusercontent.com/85970166/197617873-374d9daf-09f1-4b18-80a2-2b58bb12d131.png) - **Data Analysis**
