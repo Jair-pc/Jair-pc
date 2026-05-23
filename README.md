@@ -106,12 +106,18 @@ Currently pursuing a postgraduate degree in **Generative AI & LLMs at PUC Minas*
 
 ---
 
+
 ## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jair-pc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jair-pc&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jair-pc&theme=dark&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=ff6b35&currStreakLabel=0e75b6)](https://streak-stats.demolab.com)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jair-pc&theme=react-dark&hide_border=true&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ff6b35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
